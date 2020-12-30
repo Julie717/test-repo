@@ -1,9 +1,9 @@
 s1
 s2
 s3
-s4
+s4 add other text from branch git_1
 s5
-s6
+s6 add other text from branch git_1
 s7
 s8
 s9
