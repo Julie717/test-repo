@@ -1,0 +1,29 @@
+From ea01c55ec414d78e5cca950ec7e94f280dbd3857 Mon Sep 17 00:00:00 2001
+From: Yuliya Buyalskaya <buyalskaya.yv@gmail.com>
+Date: Wed, 30 Dec 2020 11:33:58 +0300
+Subject: [PATCH 1/2] updated 3,7 lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..fee8310 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ 1
+ 2
+-3
++3 first add
+ 4
+ 5
+ 6
+-7
++7 first add
+ 8
+ 9
+ 10
+-- 
+2.26.2.windows.1
+
